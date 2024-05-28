@@ -12,7 +12,7 @@ The Wen protocol (aka. Wen Markets, Wen) consists of:
 
 ## Frontend dApp
 
-https://alpha.wen.markets/
+https://wen.markets/
 
 ## Documentation
 
