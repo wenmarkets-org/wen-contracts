@@ -58,7 +58,7 @@ The WenToken is the ERC20 token template for the Wen protocol. The token allowan
 | ------------- | ------------------------------------------ |
 | WenFoundry    | 0x3bB94837A91E22A134053B9F38728E27055ec3d1 |
 | WenLedger     | 0x5574d1e44eFcc5530409fbE1568f335DaF83951c |
-| WenHeadmaster | 0x127881554079f89bBb157522A361Cf38cEB96Bf4 |
+| WenHeadmaster | 0xCc5e02012E600B88d496f5406eC810917B1169f9 |
 | WenLens       | 0xC0Dbd3dDEad176A0066c7633CA7BE12973Da75Ca |
 
 ## Acknowledgements
